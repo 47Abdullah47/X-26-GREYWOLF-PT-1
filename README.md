@@ -59,8 +59,9 @@ The lsit of electronics used are:-
 First of all I'm gonna Credit my **Father** he taught me almost everything about the aircrafts
 He's a professional in his feild ,and He is the who encouraged me to build this project..
 
-Secondly My **Bro** he was the atual reason i built it ,cuz he challenged me to make my own one
-And hes the one who told me about **Blueprint**.
+Secondly My **Big Bro** he was the atual reason i built it ,cuz he challenged me to make my own one
+And hes the one who told me about **Blueprint**.So if he wouldnt have challenged me ,my mind  wouldnt have accelerated those ideas that 
+led me to design this beast.
 
 Thirdly **Hackclub Blueprint**
 I wanna thank the team for starting this type of projects ,that enables many teenagers to enhance thier skills
