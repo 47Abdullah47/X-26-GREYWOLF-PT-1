@@ -7,7 +7,7 @@
   <b>An experimental prototype of <i>X-26 GREYWOLF</i></b>
 </h4>
 <p align="center">
-<a href="#breif interview of the ">Breif interview of The </a>•
+<a href="#breif interview of the ">Breif interview of The WOLF</a>•
   <a href="#visual looks">Viusal look</a>•
   <a href="#materials list">Materials list</a>•
   <a href="#electronics list">Electronics lsit</a>•
