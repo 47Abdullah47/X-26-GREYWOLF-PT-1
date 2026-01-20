@@ -1,4 +1,4 @@
-<h1 align="center">﷽</h1>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8ef5899-8947-4f7c-a3a1-eeab8925380d" /><h1 align="center">﷽</h1>
 <h1 align="center">
 <font size="48"><b>🛦 X-26 GREYWOLF PT-1</b></font>
 </h1><br>
@@ -31,7 +31,20 @@ The PT-1 is single engine (not a literal engine could be in future)powered ,runn
 The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thts a rough guess and the weight can be reduced in real life development.  
 Abt the electronic part .This beast has a spotter board and an on-board RADAR .<br><br>
 ***THE SPOTTER BOARD***<br><br>                        
-                            The spotter board collectd info abt the plane ,like the current co-ordinates ,speed and altitude of the plane .The current specs are just collecting basic info ,but i plan to add more sensors like pressure sensing at tht altitude ,Measuring the temperature of the Engine (EDF) and the front facing parts of the plane tht can get heated while flying at high speeds.<br>
+                            The spotter board collectd info abt the plane ,like the current co-ordinates ,speed and altitude of the plane .The current specs are just collecting basic info ,but i plan to add more sensors like pressure sensing at tht altitude ,Measuring the temperature of the Engine (EDF) and the front facing parts of the plane tht can get heated while flying at high speeds.
+                            It consists of two parts the transmitter board and the reciever board . SO the transmitter board is called **THE SPOTTER BOARD** and the reciever board is**THE SNIPPER BOARD **.The transmitter uses:
+                            - ESP32-DEVKIT-M1
+                            - MAX-M10S
+                            - LORA SX1278 
+                            - PE4259 RF SWITCH 
+                            - 2x SMA CONNECTORS FOR SMA ANTENNAS.
+The reciver part on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
+                                                                                                         - ESP32-DEVKIT-M1
+                                                                                                         - LORA SX1278
+                                                                                                         - 2x ILI9341 320x240 DISPLAY
+                                                                                                         - PE4259 RF SWITCH.
+                                                                                                         
+<br>
                         So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps.<br><br>
 ***RADAR***(maybe in future not currently ! also reviewers payattention here)<br><br>
            The work of radar is to detect objects within its range . The objects can be like upcomming hurdels ,other planes or even birds. It can and is planned to serve as an **eagle eye** while the visual range is pretty much reduced ,also it can be made to detect the controller of the plane .i mean the person piloting the plane and in case help in doing some radar type landing 😁<br><br>                        
