@@ -39,7 +39,9 @@ Abt the electronic part .This beast has a spotter board and an on-board RADAR .<
                             - PE4259 RF SWITCH 
                             - 2x SMA CONNECTORS FOR SMA ANTENNAS.
   THE SCHEMATIC DIAGRAM WITH NET LABELS FOR THE TRANSMITTER BOARD IS 
-  ![hb](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA4NzQsInB1ciI6ImJsb2JfaWQifX0=--0b3e8526d5dece74bd1353dce43c1cb3743065d3/hb.PNG)<img width="1366" height="768" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1e88453c-8f71-475e-b65f-611be99637a6" />
+![hb](https://github.com/user-attachments/assets/ee03717a-f2b7-475b-aa91-abdf492aedfc)
+
+<img width="1366" height="768" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1e88453c-8f71-475e-b65f-611be99637a6" />
 
 The reciver part
 on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
