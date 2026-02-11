@@ -31,43 +31,10 @@ The PT-1 is single engine (not a literal engine could be in future)powered ,runn
 The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thts a rough guess and the weight can be reduced in real life development.  
 Abt the electronic part .This beast has a spotter board and an on-board RADAR .<br><br>
 
-***THE SPOTTER BOARD***<br><br>                        
-                            The spotter board collectd info abt the plane ,like the current co-ordinates ,speed and altitude of the plane .The current specs are just collecting basic info ,but i plan to add more sensors like pressure sensing at tht altitude ,Measuring the temperature of the Engine (EDF) and the front facing parts of the plane tht can get heated while flying at high speeds.
-                            It consists of two parts the transmitter board and the reciever board . SO the transmitter board is called **THE SPOTTER BOARD** and the reciever board is**THE SNIPPER BOARD **.The transmitter uses:
-                            - ESP32-DEVKIT-M1
-                            - MAX-M10S
-                            - LORA SX1278 
-                            - PE4259 RF SWITCH 
-                            - 2x SMA CONNECTORS FOR SMA ANTENNAS.
-  THE SCHEMATIC DIAGRAM WITH NET LABELS FOR THE TRANSMITTER BOARD IS 
-![hb](https://github.com/user-attachments/assets/ee03717a-f2b7-475b-aa91-abdf492aedfc)
-
-<img width="1366" height="768" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1e88453c-8f71-475e-b65f-611be99637a6" />
-the 3d view :-<img width="1262" height="602" alt="ihnk" src="https://github.com/user-attachments/assets/daf17088-7b03-4d66-bcbb-5657dc3bd678" />
-
-<br><br>
-**The ***SNIPPER BOARD*****
-this the reciever part on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
-                                                                                                         - ESP32-DEVKIT-M1
-                                                                                                         - LORA SX1278
-                                                                                                         - 2x ILI9341 320x240 DISPLAY
-                                                                                                         - PE4259 RF SWITCH.
-                                                                                                         Reciver board's netlablleb schematic**NOTE: there are some pins unattatched on sx1278 footprint dont worry they are of clocking crystal**
-                                                                                                         <img width="1287" height="559" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/45967383-92cf-4259-a7b6-55cfa9fb4083" />
-                                                                                                         the 3d view :-<img width="1068" height="602" alt="sdf" src="https://github.com/user-attachments/assets/b4ef92f9-b2b6-47c5-b793-6523cec1bc4b" />
-
-                                                                                                         
-
-                                                                                                         
-<br><br>
-                        So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps like screen .<br><br>
-***RADAR*** (maybe in future not currently ! also reviewers pay attention here)<br><br>
-           The work of radar is to detect objects within its range . The objects can be like upcomming hurdels ,other planes or even birds. It can and is planned to serve as an **eagle eye** while the visual range is pretty much reduced ,also it can be made to detect the controller of the plane .i mean the person piloting the plane and in case help in doing some radar type landing 😁<br><br>                        
-So as u've read this project ,Resembles a Symbol of my creativity and curiosty in Aviation .
-
 ## Visual Looks
 |<img width="947" height="758" alt="X-26 PT-1" src="https://github.com/user-attachments/assets/47d1a2f4-ce30-4493-bc2f-2670a803b911" />|<img width="947" height="758" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/5548facd-ced2-4b21-abdb-d9beb347fd87" />
 |<img width="947" height="758" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/38e28f34-7f14-44f3-b3ca-d8c9660d7a83" />|
+
 
 
 <br><br>
@@ -76,23 +43,14 @@ The list of materials used is as follows:-
 - **DEPRON** for surface covering and making inner supports maybe.
 - **CARBONFIBRE** for making spars,ribs,and frames whih are going to hanlde some aerodynamic stress.
 - **PLYWOOD** suplmentary material in case of not usin the carbon fibre. maybe i wont use this.
-- **PCB's** for the Spotter board and the radar .
 <br><br>
 ## Electronics List🔌
 The lsit of electronics used are:-
 - **Sg-90 Servo** 180 degree rotating servo, for gaining control over control surfaces.
 - **80mm Edf**  The power unit thats gonna pwerup the whole jet.
-- **Fpv CAM**(for future use)not currently deployed.
 - **22.2v 6000mah Lipo**for running these heavy electronics.
 - **PCB** for the spotter board.
-- **Max-M10s gps chip**
-- **SX1278 lora chips**
-- **PE4259 rf switches**
-- **TPS 79333 voltage regulator**for extra safe voltage input
 - **Small LED lights** for night flight and night landing purpose
-- **5v lipo** for spotter and radar modules
-- **Henry inductors, capacitors,resistors**
-- **SMA antennas**
 <br><br>
 **📣AN IMPORTANT NOTICE**<br>
                          Many of the veiwers may resemble it with **F-35**or**F-22** ,but its not ,Its a blend of **F-35,F-22&F-16**
