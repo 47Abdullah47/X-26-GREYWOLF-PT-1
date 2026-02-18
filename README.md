@@ -18,9 +18,9 @@
 
 > **Status:** PT-1 finished  
 > **Design:** Fusion 360  , Kicad
-> **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/2458)
-> **Total Time SPent:** Total project time 3+ years
-> **Time spent on Blueprint:** 70+ hrs
+> **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/2458) <br>
+> **Total Time SPent:** Total project time 3+ years <br>
+> **Time spent on Blueprint:** 70+ hrs <br>
 
 
 ---<br>
