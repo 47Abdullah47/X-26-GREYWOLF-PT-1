@@ -48,11 +48,10 @@ The list of materials used is as follows:-
 - **PLYWOOD** suplmentary material in case of not usin the carbon fibre. maybe i wont use this.
 <br><br>
 ## Electronics List🔌
-The lsit of electronics used are:-
+The list of electronics used are:-
 - **Sg-90 Servo** 180 degree rotating servo, for gaining control over control surfaces.
 - **80mm Edf**  The power unit thats gonna pwerup the whole jet.
 - **22.2v 6000mah Lipo**for running these heavy electronics.
-- **PCB** for the spotter board.
 - **Small LED lights** for night flight and night landing purpose
 <br><br>
 **📣AN IMPORTANT NOTICE**<br>
