@@ -12,7 +12,7 @@
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
 <a href="#credits">Credits</a>•
-<a href="#lincense">License</a>
+<a href="#license">License</a>
 </p>
 <br>
 
@@ -31,7 +31,7 @@
 
 This WOLF, not a literal one, is the first PT(prototype) of the experimental plane series **GREY WOLF** 
 The PT-1 is single engine (not a literal engine could be in future)powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall . 
-The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thts a rough guess and the weight can be reduced in real life development.
+The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thats a rough guess and the weight can be reduced in real life development.
 Abt the electronics , the bdget was going very high above 400$ so, i've decided to build them separately.<br><br>
 
 ## Visual Looks
@@ -56,11 +56,13 @@ The list of electronics used are:-
 ***NOTE:-***other electronics and their firmwares are included in their respective repos
 <br><br>
 **📣AN IMPORTANT NOTICE**<br>
-                         Many of the veiwers may resemble it with **F-35**or**F-22** ,but its not ,Its a blend of **F-35,F-22&F-16**
-                         u may find some parts similar but lemme tell u if u look at the intakes they are similar to F-22's ,
+                         Many of the viewers may resemble it with **F-35**or**F-22**, but its not, Its a blend of **F-35,F-22&F-16**
+                         u may find some parts similar, but lemme tell u if u look at the intakes they are similar to F-22's ,
                          If u look at the vertical tails and engine u'll find them similar to F-35,And If someone may look at
                          The airframes they are enhanced form of F-16's Air frames.
                          Therefore PLZ do not mix it with Any other Aircraft,I shall be thankful to u.
+                         *Also the .f3d file is very massive upto 150mb's so i've given a google drive link in the **SOURCE FILE*** 
+  
 
 ## Credits💼📜
 First of all I'm gonna Credit my **Father** he taught me almost everything about the aircrafts
