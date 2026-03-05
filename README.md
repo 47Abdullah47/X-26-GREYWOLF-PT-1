@@ -53,6 +53,7 @@ The list of electronics used are:-
 - **80mm Edf**  The power unit thats gonna pwerup the whole jet.
 - **22.2v 6000mah Lipo**for running these heavy electronics.
 - **Small LED lights** for night flight and night landing purpose
+***NOTE:-***other electronics and their firmwares are included in their respective repos
 <br><br>
 **📣AN IMPORTANT NOTICE**<br>
                          Many of the veiwers may resemble it with **F-35**or**F-22** ,but its not ,Its a blend of **F-35,F-22&F-16**
