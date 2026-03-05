@@ -37,8 +37,10 @@ Abt the electronics , the bdget was going very high above 400$ so, i've decided 
 <br><br>
 
 ## Visual Looks
-|<img width="947" height="758" alt="X-26 PT-1" src="https://github.com/user-attachments/assets/47d1a2f4-ce30-4493-bc2f-2670a803b911" />|<img width="947" height="758" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/5548facd-ced2-4b21-abdb-d9beb347fd87" />
-|<img width="947" height="758" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/38e28f34-7f14-44f3-b3ca-d8c9660d7a83" />|
+<img width="1920" height="1080" alt="front" src="https://github.com/user-attachments/assets/c253ac6f-8f5d-4c2a-83cf-22144b56af4a" />
+<img width="1920" height="1080" alt="side" src="https://github.com/user-attachments/assets/baeb431b-8ffd-4387-878b-be495789124c" />
+<img width="1920" height="1080" alt="bottom" src="https://github.com/user-attachments/assets/14f598e0-c59e-4f85-beee-31b07a89c4bb" />
+
 
 
 
