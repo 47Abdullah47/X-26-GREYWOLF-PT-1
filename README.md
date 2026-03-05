@@ -37,9 +37,10 @@ Abt the electronics , the bdget was going very high above 400$ so, i've decided 
 <br><br>
 
 ## Visual Looks
-<img width="1920" height="1080" alt="front" src="https://github.com/user-attachments/assets/c253ac6f-8f5d-4c2a-83cf-22144b56af4a" />
-<img width="1920" height="1080" alt="side" src="https://github.com/user-attachments/assets/baeb431b-8ffd-4387-878b-be495789124c" />
-<img width="1920" height="1080" alt="bottom" src="https://github.com/user-attachments/assets/14f598e0-c59e-4f85-beee-31b07a89c4bb" />
+<img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/79038fe9-667d-4d73-b458-954ee69030db" />
+<img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/3ff2fcdd-5998-4d4d-89cd-29c2dfe3bb96" />
+<img width="1332" height="448" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
+
 
 
 
