@@ -7,8 +7,8 @@
   <b>An experimental prototype of <i>X-26 GREYWOLF</i></b>
 </h4>
 <p align="center">
-<a href="#breif interview of the ">Breif interview of The WOLF</a>•
-  <a href="#visual looks">Viusal Look</a>•
+<a href="#brief interview of the ">Brief interview of The WOLF</a>•
+  <a href="#visual looks">Visual Look</a>•
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
 <a href="#credits">Credits</a>•
@@ -17,7 +17,7 @@
 <br>
 
 > **Status:** PT-1 finished  
-> **Design:** Fusion 360  , Kicad
+> **Design:** Fusion 360  
 > **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/2458) <br>
 > **Total Time Spent:** 3+ years <br>
 > **Time spent on Blueprint:** 70+ hrs <br>
@@ -27,12 +27,12 @@
 
  <br><br>                        
                         
-## Breif Interview Of THE WOLF🐺
+## Brief Interview Of THE WOLF🐺
 
 This WOLF, not a literal one, is the first PT(prototype) of the experimental plane series **GREY WOLF** 
 The PT-1 is single engine (not a literal engine could be in future)powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall . 
 The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thats a rough guess and the weight can be reduced in real life development.
-Abt the electronics , the bdget was going very high above 400$ so, i've decided to build them separately.<br>
+Abt the electronics , the budget was going very high above 400$ so, i've decided to build them separately.<br>
 *Also the .f3d file is very massive upto 150mb's so i've given a google drive link in the **SOURCE FILE*** <a href="Source files">Link to the source file </a>
 <br><br>
 
@@ -49,13 +49,13 @@ Abt the electronics , the bdget was going very high above 400$ so, i've decided 
 ## Materials List
 The list of materials used is as follows:-
 - **DEPRON** for surface covering and making inner supports maybe.
-- **CARBONFIBRE** for making spars,ribs,and frames whih are going to hanlde some aerodynamic stress.
-- **PLYWOOD** suplmentary material in case of not usin the carbon fibre. maybe i wont use this.
+- **CARBONFIBRE** for making spars,ribs,and frames which are going to handle some aerodynamic stress.
+- **PLYWOOD** supplementary material in case of not usin the carbon fibre. maybe i wont use this.
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
 - **Sg-90 Servo** 180 degree rotating servo, for gaining control over control surfaces.
-- **80mm Edf**  The power unit thats gonna pwerup the whole jet.
+- **80mm Edf**  The power unit thats gonna powerup the whole jet.
 - **22.2v 6000mah Lipo**for running these heavy electronics.
 - **Small LED lights** for night flight and night landing purpose
 ***NOTE:-***other electronics and their firmwares are included in their respective repos
@@ -65,7 +65,7 @@ The list of electronics used are:-
                          u may find some parts similar, but lemme tell u if u look at the intakes they are similar to F-22's ,
                          If u look at the vertical tails and engine u'll find them similar to F-35,And If someone may look at
                          The airframes they are enhanced form of F-16's Air frames.
-                         Therefore PLZ do not mix it with Any other Aircraft,I shall be thankful to u.
+                         Therefore please do not mix it with Any other Aircraft,I shall be thankful to u.
                          
   
 
