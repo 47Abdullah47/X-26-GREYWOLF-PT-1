@@ -32,7 +32,8 @@
 This WOLF, not a literal one, is the first PT(prototype) of the experimental plane series **GREY WOLF** 
 The PT-1 is single engine (not a literal engine could be in future)powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall . 
 The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thats a rough guess and the weight can be reduced in real life development.
-Abt the electronics , the bdget was going very high above 400$ so, i've decided to build them separately.<br><br>
+Abt the electronics , the bdget was going very high above 400$ so, i've decided to build them separately.
+*Also the .f3d file is very massive upto 150mb's so i've given a google drive link in the **SOURCE FILE*** <br><br>
 
 ## Visual Looks
 |<img width="947" height="758" alt="X-26 PT-1" src="https://github.com/user-attachments/assets/47d1a2f4-ce30-4493-bc2f-2670a803b911" />|<img width="947" height="758" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/5548facd-ced2-4b21-abdb-d9beb347fd87" />
@@ -61,7 +62,7 @@ The list of electronics used are:-
                          If u look at the vertical tails and engine u'll find them similar to F-35,And If someone may look at
                          The airframes they are enhanced form of F-16's Air frames.
                          Therefore PLZ do not mix it with Any other Aircraft,I shall be thankful to u.
-                         *Also the .f3d file is very massive upto 150mb's so i've given a google drive link in the **SOURCE FILE*** 
+                         
   
 
 ## Credits💼📜
